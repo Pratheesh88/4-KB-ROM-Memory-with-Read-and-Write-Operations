@@ -56,6 +56,9 @@ module rom_memory (
     end
 endmodule
 ```
+## OUTPUT
+![Screenshot 2025-04-26 132301](https://github.com/user-attachments/assets/60d20cf2-6ccd-4b53-9af8-85d0a7cf06de)
+
 
 Testbench for 4KB ROM Memory
 ```
